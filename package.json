@@ -1,0 +1,27 @@
+{
+  "name": "color-util",
+  "version": "0.0.0",
+  "private": true,
+  "description": "color transformation library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dzdrazil/color-util.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dzdrazil/color-util/issues"
+  },
+  "homepage": "https://github.com/dzdrazil/color-util",
+  "dependencies": {
+    "gulp-traceur": "~0.7.0",
+    "gulp": "~3.8.1",
+    "requirejs": "~2.1.14",
+    "gulp-concat": "~2.2.0",
+    "gulp-uglify": "~0.3.0"
+  }
+}
